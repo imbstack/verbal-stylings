@@ -1,0 +1,3 @@
+$ git add index.html
+$ git commit -a -m "First pages commit"
+$ git push origin gh-pages
